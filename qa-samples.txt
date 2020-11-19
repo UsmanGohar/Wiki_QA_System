@@ -1,0 +1,27 @@
+Questions answered correctly
+
+1) When was George Washington born?
+2) When was Pakistan created?
+3) Where is Statue of Liberty?
+4) Where is TCF bank stadium?
+5) What is Computer cluster?
+6) What was Silk road?
+7) What is coffee made from?
+8) Who is the Director of the FBI?
+9) Who is the governor of Minnesota?
+10) Where is Sultan Ahmed Mosque located?
+
+
+Question answered incorrect or not found. (I developed the system in a way that it would say answer not found
+instead of giving an incorrect answer)
+
+1) When is the next United States presidential election?
+2) When was World War 2?
+3) When was JFK assassinated? 
+4) Where did Titanic sink?
+5) Who attacked Pearl Harbor?
+6) who was Christopher Columbus?
+7) Who killed JFK?
+8) Where was JFK assassinated?
+9) What caused the fall of Soviet Union?
+10) What happened during the Middle East War?

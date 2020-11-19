@@ -1,0 +1,77 @@
+﻿Script started on Wed 06 Dec 2017 10:23:56 PM CST
+[4makka[24m:[1m~[0m% python qa-system.py
+
+This is a question answering system by Usman Gohar. Please ask questions start with When, Who, What & Where. Type 'Exit' to quit
+
+User:When was George Washington born?
+System:George Washington was born on 1732/2/22
+
+User:When was World War 2?
+System: Sorry, answer not found 
+
+User:When was Pakistan created?
+Pakistan was created in 1947
+
+User:When is next United States Presidential elections s?
+System: Sorry, answer not found 
+
+User:When was JFK assassinated?
+System: Sorry, answer not found 
+
+User:Where is the statue of libery?
+System: Sorry, answer not found 
+
+User:Where is Statue of Liberty?
+Statue of Liberty is in Liberty IslandManhattan, New York City,New York,ref name="NPS StLi"  U.S.
+
+User:Where is Sutltan Ahmed Mosque?
+Sultan Ahmed Mosque is in Istanbul, Turkey
+
+User:Where was JFK assassinated?
+System: Sorry, answer not found 
+
+User:Where did the Titanic sank?
+System: Sorry, answer not found 
+
+User:What is Computer cluster?
+System: A computer cluster is a set of loosely or tightly connected computers that
+work together so that, in many respects, they can be viewed as a single
+system
+
+User:What was silk road?
+System: The Silk Road or Silk Route was an ancient network of trade routes
+that were for centuries central to cultural interaction originally through
+regions of Eurasia connecting the East and West and stretching from the Korean
+peninsula and Japan to the Mediterranean Sea
+
+User:What is coffee made from?
+System: Coffee is a brewed drink prepared from roasted coffee beans, which are the
+seeds of berries from the Coffea plant
+
+User:What is Volti?
+System: Volti is a 20-person professional vocal ensemble based in San Francisco
+
+User:What is Cyber Monday?
+System: Cyber Monday is a marketing term for the Monday after the Thanksgiving
+holiday in the United States
+
+User:Who is the current director of the FBI?
+System: Christopher A. Wray is the director of the FBI
+
+User:Who is the governor of Minnesota?
+System: Mark Dayton is the governor of Minnesota
+
+User:Who killed JFK?
+System: Sorry, answer not found
+
+User:Who attacked Pearl Harbor?
+System: Sorry, answer not found
+
+User:Who won World War 2?
+System: Sorry, answer not found
+
+
+[4makka[24m:[1m~[0m% Exit
+exit
+
+Script done on Wed 06 Dec 2017 10:30:00 PM CST
